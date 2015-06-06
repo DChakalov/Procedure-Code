@@ -71,7 +71,7 @@ long double numbersInInterval(int n, double* selectNumsInInterval)
 
 void PrintGreaterNums(int n, long double average, double* selectNumsInInterval)
 {
-	cout << "Numbers greater then average: " << endl;
+	cout << "Numbers greater thаn average: " << endl;
 
 	for (size_t i = 0; i < n; ++i)
 	{
