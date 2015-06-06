@@ -56,7 +56,7 @@ long double numbersInInterval(int n, double* selectNumsInInterval)
 	{
 		cin >> selectNumsInInterval[i];
 
-		if (!cin)    //Proverqvame dali sa korektni chislata
+		if (!cin)    //Proverqvame za koreknostta na chislata
 		{
 			return 0;
 		}
