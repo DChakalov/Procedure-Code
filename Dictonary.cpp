@@ -71,7 +71,7 @@ void IsExistInDictonary(char* sentence, char** dictonary, int n)
 			index++;
 			j++;
 		}
-		int sadadas = 0;
+
 		index = 0;
 		j++;
 
